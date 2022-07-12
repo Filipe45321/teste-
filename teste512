@@ -1,5 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Hvk8Gd2.jpg" group-title="PICA PAU",Temporada 01 teste
+#EXTINF:0 tvg-logo="https://i.imgur.com/Hvk8Gd2.jpg" group-title="PI",01 teste
 https://www.terabox.com/api/streaming?path=%2FPica.Pau.EP009.MP4.mp4&app_id=250528&clienttype=0&type=M3U8
